@@ -1,0 +1,30 @@
+h1{
+    color:red; text-transform: capitalize; text-align: center;
+}
+h2{
+    color:red; text-transform: uppercase;
+}
+#p{
+    text-align: center; 
+}
+#a{
+    font-weight: bold; text-transform: uppercase;
+}
+#b{
+    font-weight: bold;
+}
+#c{
+    font-weight: bold; text-transform: uppercase;
+}
+#d{
+    font-weight: bold;
+}
+#e{
+    font-weight: bold; text-transform: uppercase;
+}
+#f{
+    font-weight: bold;
+}
+#g{
+    font-weight: bold;
+}
